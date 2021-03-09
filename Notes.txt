@@ -1,0 +1,19 @@
+Intro
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/inspired/biometrics
+
+Fingerprint
+https://www.biometricupdate.com/201205/what-is-fingerprint-identification
+https://www.nedapsecurity.com/pl/insight/biometric-fingerprint-access-control/
+
+Retina Scanner
+https://resources.infosecinstitute.com/topic/retinal-recognition-ultimate-biometric/
+
+Facial recognition
+https://www.electronicid.eu/en/blog/post/face-recognition/en
+
+Voice recognition
+https://soitron.co.uk/how-does-voice-recognition-biometrics-work-4/
+https://www.aware.com/voice-authentication/
+
+Biometrics security
+https://www.onelogin.com/learn/biometric-authentication
